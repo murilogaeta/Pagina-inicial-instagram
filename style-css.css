@@ -123,6 +123,7 @@ body {
     height: 3rem;
     width: 10rem;
     background-size: cover;
+    margin-right: 10px;
 }
 
 .app-download:nth-child(1) {
